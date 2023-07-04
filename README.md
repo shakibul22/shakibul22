@@ -4,3 +4,4 @@ I am Md Shakibul Islam from Bangladesh and, i design and develop the websites.I 
 
 ![shakibul22's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibul22&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibul22&size_weight=0.5&count_weight=0.5)
