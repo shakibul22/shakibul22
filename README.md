@@ -35,18 +35,18 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=showkatali-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" alt="showkatali-dev" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibul22&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" alt="shakibul" /></p>
 
 <br>
 
 ##
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=showkatali-dev&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="showkatali-dev" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shakibul22&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="shakibul" /></p>
 <br>
 
 ##
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=showkatali-dev&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="showkatali-dev" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakibul22&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="showkatali-dev" /></p>
 
 
 I am Md Shakibul Islam from Bangladesh and, i design and develop the websites.I am a MERN stack developer specialized in React.js . I really enjoy to learn C, C++, Python and Javascript language and frameworks like React.js and Next.js.
