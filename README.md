@@ -46,11 +46,7 @@
 
 ##
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakibul22&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="showkatali-dev" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakibul22&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="shakibul" /></p>
 
 
-I am Md Shakibul Islam from Bangladesh and, i design and develop the websites.I am a MERN stack developer specialized in React.js . I really enjoy to learn C, C++, Python and Javascript language and frameworks like React.js and Next.js.
 
-![shakibul22's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibul22&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibul22&size_weight=0.5&count_weight=0.5)
