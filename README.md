@@ -1,11 +1,7 @@
 
 <h1 align="center">😍Hi there 👋, I'm Md Shakibul Islam</h1>
-<h3 align="center">A MERN-stack web developer from Bangladesh</h3>
-
-<br><br>
-
+<h3 align="center">A MERN-stack web developer from Bangladesh</h3><br><br>
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=shakibul22-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shakibul" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
-
 <br>
 
 - 🔭 Self taught Programmer with proficiency in **MERN stack**
