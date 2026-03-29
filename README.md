@@ -88,9 +88,7 @@ Understand business → Design system → Build scalable architecture → Deploy
 ---
 
 ## GitHub Analytics
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul22&theme=tokyo-night&hide_border=true" />
-</p>
+
 <p align="center">
 <img width="48%" src="https://streak-stats.demolab.com?user=shakibul22&theme=tokyonight&hide_border=true" />
 </p>
@@ -105,16 +103,13 @@ Understand business → Design system → Build scalable architecture → Deploy
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakibul22&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakibul22&theme=tokyonight" />
 </p>
+
 ---
 
 ## Activity & Contributions
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul22&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakibul22&theme=tokyonight" />
 </p>
 
 ## Contact
