@@ -1,5 +1,5 @@
 <h1 align="center">Md Shakibul Islam</h1>
-<h3 align="center">Full Stack Engineer | MERN | DevOps | Scalable Systems</h3>
+<h3 align="center">Full Stack Engineer | MERN | Team Leadership | Scalable Systems</h3>
 <p align="center">
 <a href="https://shakibul.online/" target="_blank">Portfolio</a> •
 <a href="https://www.softzency.com" target="_blank">Softzency</a> •
