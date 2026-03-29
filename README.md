@@ -23,7 +23,7 @@
 
 I build scalable, production-ready systems that solve real business problems.
 
-Specialized in full-stack development and DevOps, I focus on performance, automation, and long-term scalability.  
+Specialized in full-stack development and Team Leads, I focus on performance, automation, and long-term scalability.  
 I am part of Softzency, delivering high-quality digital products for clients worldwide.
 
 ---
