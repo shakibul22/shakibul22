@@ -90,9 +90,9 @@ Understand business → Design system → Build scalable architecture → Deploy
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shakibul22&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibul22&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibul22&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=shakibul22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://streak-stats.demolab.com?user=shakibul22&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibul22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
