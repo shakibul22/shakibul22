@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hi, I'm Md Shakibul Islam</h1>
-<h3 align="center">Full Stack Developer | MERN | DevOps Enthusiast</h3>
+<h1 align="center">Md Shakibul Islam</h1>
+<h3 align="center">Full Stack Engineer | MERN | DevOps | Scalable Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakibul22-dev&label=Profile%20views&color=0e75b6&style=flat" />
@@ -7,59 +7,88 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- ⚙️ Strong knowledge of **System Design & Scalable Architecture**
-- 🚀 Currently working with **DevOps (Docker, AWS, CI/CD)**
-- 🧠 Problem solver focused on **real-world applications**
-- 🎯 Goal: Building **production-grade SaaS & scalable platforms**
+I am a Full Stack Engineer specializing in building scalable, production-ready web applications.  
+My expertise lies in the MERN stack along with modern DevOps practices to ensure performance, security, and reliability.
+
+I focus on delivering real-world solutions — not just code.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Expertise
 
-### 🚀 Frontend
+- Full Stack Development (MERN)
+- System Design & Scalable Architecture
+- REST API & Secure Authentication
+- Database Design (MongoDB, PostgreSQL)
+- Performance Optimization
+- DevOps (Docker, AWS, CI/CD, Nginx)
+
+---
+
+## Tech Stack
+
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </p>
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,github,vercel" />
 </p>
 
 ---
 
-## 🔥 What I Do
+## Services (Client-Focused)
 
-- 🏗️ Build scalable full-stack applications
-- 🔐 Implement secure authentication & APIs
-- ⚡ Optimize performance & system architecture
-- ☁️ Deploy & manage cloud infrastructure
-- 🔄 Automate workflows using CI/CD pipelines
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/md-shakibul-islam-779698280/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="mailto:shakibulislam684@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
+- End-to-End Web Application Development
+- SaaS Platform Development
+- API Development & Integration
+- Performance Optimization & Debugging
+- Cloud Deployment & Infrastructure Setup
+- Maintenance & Scaling Existing Systems
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+### 1. SaaS Platform (Multi-Vendor System)
+- Full-featured multi-vendor architecture
+- Secure authentication & role management
+- Payment integration & admin dashboard
+- Scalable backend with optimized DB design
+
+### 2. Client Acquisition Platform
+- High-conversion landing system
+- SEO optimized structure
+- Lead capture & automation workflow
+
+### 3. Custom Business Dashboard
+- Real-time data visualization
+- Role-based access control
+- REST API integration
+
+(Add your live links here)
+
+---
+
+## Why Work With Me
+
+- Focus on business results, not just development
+- Clean, maintainable, scalable code
+- Strong communication & fast delivery
+- Experience with real client projects
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shakibul22&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -75,14 +104,13 @@
 
 ---
 
-## ⚡ Current Focus
+## Contact
 
-- 🔥 Advanced **DevOps & Cloud Architecture**
-- 🧩 Microservices & Scalable Systems
-- 🏢 Building **real client projects & SaaS platforms**
+Email: shakibulislam684@gmail.com  
+LinkedIn: https://www.linkedin.com/in/md-shakibul-islam-779698280/
 
 ---
 
-## 💡 Fun Fact
+## Availability
 
-> I don't just write code — I build **systems that scale** 🚀
+Available for freelance projects, long-term collaboration, and contract-based work.
