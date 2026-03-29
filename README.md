@@ -92,9 +92,7 @@ Understand business → Design system → Build scalable architecture → Deploy
 <p align="center">
 <img width="48%" src="https://streak-stats.demolab.com?user=shakibul22&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/shakibul22/shakibul22/output/snake.svg" />
-</p>
+
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakibul22&theme=tokyonight" />
 </p>
