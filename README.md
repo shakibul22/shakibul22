@@ -43,7 +43,7 @@ ZOYEQ is a cloud-based SaaS platform that enables businesses to create and scale
 ---
 
 ### Lalikon – Enterprise Dashboard System
-http://lalikon.com/
+http://lalikan.ci/
 
 • Enterprise management dashboard  
 • Real-time analytics & monitoring  
