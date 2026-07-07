@@ -1,9 +1,8 @@
 <h1 align="center">Md Shakibul Islam</h1>
-<h3 align="center">Full Stack Engineer | Building Scalable SaaS & Business Systems</h3>
+<h3 align="center">Software Engineer | Building Scalable SaaS & Business Systems</h3>
 
 <p align="center">
 <a href="https://shakibul.online/" target="_blank">Portfolio</a> •
-<a href="https://www.softzency.com" target="_blank">Softzency</a> •
 <a href="mailto:shakibulislam684@gmail.com">Contact</a>
 </p>
 
@@ -114,10 +113,9 @@ Understand business → Design system → Build scalable architecture → Deploy
 
 Email: shakibulislam684@gmail.com  
 Portfolio: https://shakibul.online/  
-Company: https://www.softzency.com  
 
 ---
 
 ## Availability
 
-Available for freelance, SaaS development, and long-term collaboration
+Available for Building software, SaaS development, and long-term collaboration
